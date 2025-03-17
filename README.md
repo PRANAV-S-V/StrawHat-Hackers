@@ -23,4 +23,4 @@ Ajay Chandran M (Nero.sh)
 Dhanush C K (Gojo.js)
 
 
-www.strawhathakers.com
+www.strawhathackers.com
